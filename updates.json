@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "tririga-tab-tools@bhp.local": {
+      "updates": [
+        {
+          "version": "1.57",
+          "update_link": "https://bhpetersheim.github.io/tririga-tab-tools/tririga-tab-tools-1.57.xpi",
+          "update_hash": "sha256:543c9fcc5427b357c027df88d58bca67d2e3e354948e1b9abef81ea10f249e23"
+        }
+      ]
+    }
+  }
+}
